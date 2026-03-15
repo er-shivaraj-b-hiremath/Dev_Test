@@ -2,6 +2,6 @@ package dev_test;
 
 public class JavaApp {
 	public static void execution() {
-		Task.manager();
+		System.out.println("Hello World!");
 	}
 }
